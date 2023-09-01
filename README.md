@@ -1,4 +1,4 @@
-My name is Vsevolod, I'm a student of HSE University (Moscow).
+My name is Vsevolod, I'm a student of HSE University.
 
 I'm fond of **machine learning**. Following repositories are dedicated to my projects:
 1. **Computer vision model (fine-tuned VGG11) predicting pneumonia by X-ray images**: [XRayNet](https://github.com/SevaErshov/X-ray-Pneumonia-Classifier/tree/main)
